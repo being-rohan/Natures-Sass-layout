@@ -9,7 +9,11 @@
     transform: translateX(0);
     opacity: 1; } }
 
+<<<<<<< HEAD
 @keyframes movInRight {
+=======
+@keyframes movInRight {l̥ō
+>>>>>>> c1254c689da350a64bfadb9c67456fe39ccf6a72
   0% {
     transform: translateX(6.25rem);
     opacity: 0; }
@@ -26,8 +30,12 @@
 
 ::selection {
   background-color: #28b485;
+<<<<<<< HEAD
   color: #fff; }
 
+=======
+  color: #fff;
+>>>>>>> c1254c689da350a64bfadb9c67456fe39ccf6a72
 html {
   font-size: 1rem; }
 
